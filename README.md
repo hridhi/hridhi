@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hridhi Sethi</h1>
+
 <h3 align="center">A sophomore at Amrita vishwa vidyapeetham and an eclectic person by nature.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridhi&label=Profile%20views&color=0e75b6&style=flat" alt="hridhi" /> </p>
