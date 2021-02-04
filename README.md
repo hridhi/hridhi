@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridhi&label=Profile%20views&color=0e75b6&style=flat" alt="hridhi" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
 - 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hridhi](https://github.com/hridhi)
@@ -26,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridhi&show_icons=true&locale=en&layout=compact" alt="hridhi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridhi&show_icons=true&locale=en" alt="hridhi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hridhi&show_icons=true&locale=en" alt="hridhi" /></p>
