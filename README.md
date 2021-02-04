@@ -17,20 +17,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Complexity analysis](https://hridhi-sethi.medium.com/complexity-analysis-an-overview-f37f82d7718b)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ABSphreak.png">
-  </details>
+
 - [Latest trends in AI](https://hridhi-sethi.medium.com/latest-trends-in-artificial-intelligence-4afadf29bfcf)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/sisodiya2421.png">
-  </details>
+  
 - [View of perspectives](https://hridhi-sethi.medium.com/view-of-perspectives-e82139a92265)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/acervenky.png">
-  </details>
 
 <!-- BLOG-POST-LIST:END -->
 
